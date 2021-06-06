@@ -32,7 +32,7 @@
               </div>
           </div>
       </section>
-      <p class="animate-bounce text-3xl lg:text-5xl p-2">🐱‍💻</p>
+      <p class="animate-bounce text-3xl lg:text-5xl p-2">💯💤🧞‍♂️</p>
   </div>
 </template>
 
