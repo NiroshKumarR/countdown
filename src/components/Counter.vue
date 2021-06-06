@@ -1,7 +1,7 @@
 <template>
   <div v-if="loaded" class="m-20 border shadow-xl p-5 hover:shadow-2xl  ">
       <section class="lg:text-center  font-mono text-2xl font-semibold text-right">
-          <p>Countdown For My Sucess Day 👏 🐱‍💻 Yet to Come...!</p>
+          <p>Countdown For My Sucess Day 👏 🌠 Yet to Come...!</p>
       </section>
       <section class="font-mono lg:m-3 lg:justify-center lg:shadow-none counter flex flex-row rounded m-5 content-center">
           <div class="days text-2xl relative lg:text-5xl">
